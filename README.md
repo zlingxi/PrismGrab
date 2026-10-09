@@ -1,7 +1,7 @@
 # PrismGrab
 
 <p align="center">
-  <img src="assets/logo.png" alt="PrismGrab" width="120">
+  <img src="app/resources/images/logo.png" alt="PrismGrab" width="120">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.1.0-6B4CE6" alt="version">
+  <img src="https://img.shields.io/badge/version-1.1.1-6B4CE6" alt="version">
   <img src="https://img.shields.io/badge/platform-Windows x64%20%7C%20macOS (Apple Silicon && Intel x64)-blue" alt="platform">
   <img src="https://img.shields.io/badge/python-3.12+-3776AB" alt="python">
   <img src="https://img.shields.io/badge/license-Proprietary-red" alt="license">
@@ -162,6 +162,11 @@ PrismGrab 完整支持 **Apple Silicon（M 系列芯片）** 与 **Intel 芯片*
 
 示例：`{category}/{user_name}/{date:%Y-%m-%d}_{title}.{extension}`
 
+## 🔑 激活说明
+
+- 软件采用卡密激活制，激活后绑定设备使用
+- 每年可自助解绑换机 **3 次**（个人中心 → 解绑换机）
+- 获取渠道：[商城购买](https://www.aizzx.top/shop/1737.html)（优惠打折）或 [自助下单](https://api.aizzx.top/index/buy/CardBuyView/appid/4/index.html)
 
 ## 🔄 软件更新
 
