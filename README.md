@@ -1,7 +1,7 @@
 # PrismGrab
 
 <p align="center">
-  <img src="app/resources/images/logo.png" alt="PrismGrab" width="120">
+  <img src="assets/logo.png" alt="PrismGrab" width="120">
 </p>
 
 <p align="center">
