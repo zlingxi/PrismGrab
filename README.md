@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.2.0-6B4CE6" alt="version">
+  <img src="https://img.shields.io/badge/version-1.2.1-6B4CE6" alt="version">
   <img src="https://img.shields.io/badge/platform-Windows x64%20%7C%20macOS (Apple Silicon && Intel x64)-blue" alt="platform">
   <img src="https://img.shields.io/badge/python-3.12+-3776AB" alt="python">
   <img src="https://img.shields.io/badge/license-Proprietary-red" alt="license">
